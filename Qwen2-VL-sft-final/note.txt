@@ -1,2 +1,4 @@
 由于模型文件过大，无法导入到仓库，因此提供阿里网盘链接如下：
-
+ https://www.alipan.com/t/E0XfuVBgDOcENwmWV7qr
+原始Qwen2-VL-2B模型见已下链接：
+https://www.modelscope.cn/models/Qwen/Qwen2-VL-2B-Instruct
